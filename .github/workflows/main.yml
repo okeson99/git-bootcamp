@@ -1,0 +1,2 @@
+chmod +x setup.sh
+./setup.sh   # must finish without error
